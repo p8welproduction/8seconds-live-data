@@ -1,62 +1,8 @@
 {
   "schema_version": 1,
   "snapshots": [
-    {
-      "captured_at": "2026-09-18T13:18:55.609Z",
-      "videos": [
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1652083766526656/","views":959,"likes":2,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686396671516757270?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":695,"likes":8,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686514343776636182?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":372,"likes":3,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686111806573546774?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":363,"likes":5,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387669856800022?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":357,"likes":5,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387107698314518?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":356,"likes":1,"comments":0,"shares":1},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686112150951070998?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":350,"likes":3,"comments":1,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686388097969294614?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":348,"likes":2,"comments":0,"shares":0}
-      ]
-    },
-    {
-      "captured_at": "2026-09-18T23:21:21Z",
-      "videos": [
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1652083766526656/","views":965,"likes":2,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686396671516757270?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":695,"likes":8,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/Dda56QYjsGh/","views":416,"likes":1,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686514343776636182?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":372,"likes":3,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686111806573546774?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":363,"likes":5,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387669856800022?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":357,"likes":5,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387107698314518?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":356,"likes":1,"comments":0,"shares":1},
-        {"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/980861118376846/","views":352,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686112150951070998?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":350,"likes":3,"comments":1,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686388097969294614?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":348,"likes":2,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686388463930871063?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":337,"likes":3,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686111448606510358?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":335,"likes":3,"comments":1,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdYSK5jTKy6/","views":329,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Facebook","url":"https://www.facebook.com/reel/1607070754429310/","views":324,"likes":8,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Instagram","url":"https://www.instagram.com/reel/DdbVWSujCdp/","views":303,"likes":1,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Facebook","url":"https://www.facebook.com/reel/2206873686555778/","views":298,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdWSNFYz9l8/","views":298,"likes":1,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Facebook","url":"https://www.facebook.com/reel/1439671291373015/","views":289,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdWSk-hzfbf/","views":284,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdTYvSPz29l/","views":284,"likes":2,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdbjMFBgt93/","views":276,"likes":3,"comments":0,"shares":0},
-        {"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/2292525761287349/","views":276,"likes":0,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1072267639041613/","views":273,"likes":0,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Instagram","url":"https://www.instagram.com/reel/DdVw84VpfF0/","views":268,"likes":0,"comments":0,"shares":0},
-        {"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/27789293120750622/","views":262,"likes":2,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Facebook","url":"https://www.facebook.com/reel/1720812699213888/","views":256,"likes":10,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1693411215085243/","views":255,"likes":1,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686499787226500374?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":242,"likes":8,"comments":0,"shares":0},
-        {"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/2503088993520543/","views":241,"likes":1,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdcMTm2CUN1/","views":229,"likes":0,"comments":0,"shares":2},
-        {"brand":"Shine","platform":"Instagram","url":"https://www.instagram.com/reel/DdbKOISItiL/","views":221,"likes":1,"comments":0,"shares":0},
-        {"brand":"Shine","platform":"Instagram","url":"https://www.instagram.com/reel/Ddbw2nIgEN8/","views":214,"likes":1,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1656533152777495/","views":206,"likes":3,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/DdZne-gCukC/","views":200,"likes":0,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Instagram","url":"https://www.instagram.com/reel/DdW2RdVJacx/","views":194,"likes":0,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/2139043786820455/","views":191,"likes":0,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7685732878952549635?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":187,"likes":3,"comments":0,"shares":0},
-        {"brand":"Upgrade","platform":"Instagram","url":"https://www.instagram.com/reel/Ddb-lEJilrF/","views":149,"likes":1,"comments":0,"shares":0},
-        {"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686600269437668630?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":87,"likes":0,"comments":0,"shares":0}
-      ]
-    }
+    {"captured_at":"2026-09-18T13:18:55.609Z","videos":[{"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1652083766526656/","views":959,"likes":2,"comments":0,"shares":0},{"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686396671516757270?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":695,"likes":8,"comments":0,"shares":0}]},
+    {"captured_at":"2026-09-18T23:21:21Z","videos":[{"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1652083766526656/","views":965,"likes":2,"comments":0,"shares":0},{"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686396671516757270?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":695,"likes":8,"comments":0,"shares":0},{"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/Dda56QYjsGh/","views":416,"likes":1,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686514343776636182?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":372,"likes":3,"comments":0,"shares":0},{"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686111806573546774?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":363,"likes":5,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387669856800022?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":357,"likes":5,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387107698314518?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":356,"likes":1,"comments":0,"shares":1},{"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/980861118376846/","views":352,"likes":0,"comments":0,"shares":0}]},
+    {"captured_at":"2026-09-19T00:18:28Z","videos":[{"brand":"Upgrade","platform":"Facebook","url":"https://www.facebook.com/reel/1652083766526656/","views":965,"likes":2,"comments":0,"shares":0},{"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686396671516757270?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":695,"likes":8,"comments":0,"shares":0},{"brand":"Smile","platform":"Instagram","url":"https://www.instagram.com/reel/Dda56QYjsGh/","views":416,"likes":1,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686514343776636182?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":372,"likes":3,"comments":0,"shares":0},{"brand":"Smile","platform":"TikTok","url":"https://www.tiktok.com/@8secondstosmile/video/7686111806573546774?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":363,"likes":5,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387669856800022?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":357,"likes":5,"comments":0,"shares":0},{"brand":"Upgrade","platform":"TikTok","url":"https://www.tiktok.com/@8secondstoupgrade/video/7686387107698314518?utm_campaign=tt4d_open_api&utm_source=awwuexz91plpu87c","views":356,"likes":1,"comments":0,"shares":1},{"brand":"Shine","platform":"Facebook","url":"https://www.facebook.com/reel/980861118376846/","views":352,"likes":0,"comments":0,"shares":0}]}
   ]
 }
